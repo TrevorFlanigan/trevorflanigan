@@ -27,4 +27,8 @@ Check out [my website!](https://trevorflanigan.com)
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TrevorFlanigan.TrevorFlanigan)
 
+### Project Outlines
+
+![Dancing Robot](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![RC Robot](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
