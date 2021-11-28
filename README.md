@@ -14,7 +14,9 @@ Curiosity-driven full stack developer with professional experience in FE, BE, an
 - [Wavelength](http://wavelength.trevorflanigan.com/)
 - [Sync](https://sync.ubclaunchpad.com/)
 
-Check out [my website!](https://trevorflanigan.com)
+### Contact
+- [Website](https://trevorflanigan.com)
+- [LinkedIn](https://www.linkedin.com/in/trevorflanigan/)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrevorFlanigan&show_icons=true)
 <br />
@@ -23,12 +25,11 @@ Check out [my website!](https://trevorflanigan.com)
 
 <br/>
 
-
-<!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TrevorFlanigan.TrevorFlanigan)
 
-### Project Outlines
+<details>
+  <summary>Project Outlines</summary>
 
-![Dancing Robot](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-![RC Robot](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
+![Dancing Robot](https://d119rwdr97dgw2.cloudfront.net/dancingrobot1.c06ed145.gif)
+![RC Robot](https://d119rwdr97dgw2.cloudfront.net/robot1.3dc82071.gif)
+</details>
