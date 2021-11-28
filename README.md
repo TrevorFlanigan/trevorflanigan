@@ -26,10 +26,3 @@ Curiosity-driven full stack developer with professional experience in FE, BE, an
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TrevorFlanigan.TrevorFlanigan)
-
-<details>
-  <summary>Project Outlines</summary>
-
-![Dancing Robot](https://d119rwdr97dgw2.cloudfront.net/dancingrobot1.c06ed145.gif)
-![RC Robot](https://d119rwdr97dgw2.cloudfront.net/robot1.3dc82071.gif)
-</details>
