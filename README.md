@@ -4,7 +4,7 @@
 
 Curiosity-driven full stack developer with professional experience in FE, BE, and Cloud Architecture. Lead designer and developer of numerous projects from end-to-end, including applications currently in production. Life-long learner, always looking for ways to apply and build upon experience.
 - Tech Lead on Meetable @ UBC Launchpad
-- 💬 Ask me about **The UBC Cloud Innovation Centre**
+- 💬 Ask me about **The AWS Cloud Innovation Centre**
 
 ### Projects I'm Proud of
 
