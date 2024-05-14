@@ -3,6 +3,7 @@
 ## In a Nutshell
 
 Curiosity-driven full stack developer with professional experience in FE, BE, and Cloud Architecture. Lead designer and developer of numerous projects from end-to-end, including applications currently in production. Life-long learner, always looking for ways to apply and build upon experience.
+- Software Engineer @ Tesla
 - Tech Lead on Meetable @ UBC Launchpad
 - 💬 Ask me about **The AWS Cloud Innovation Centre**
 
@@ -12,6 +13,13 @@ Curiosity-driven full stack developer with professional experience in FE, BE, an
 - [Census Explorer](https://github.com/UBC-CIC/census-explorer)
 - [Bullpen](https://bullpen.trevorflanigan.com/)
 - [Sync](https://sync.ubclaunchpad.com/)
+
+### Hobbies
+- Texas Hold'Em
+- Bouldering
+- Digital Art
+- Volleyball
+- Spikeball
 
 ### Contact
 - [Website](https://trevorflanigan.com)
