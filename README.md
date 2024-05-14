@@ -3,7 +3,13 @@
 Hi 👋 I’m Trevor - a curiosity-driven computer engineer with professional experience in React, Golang, Node, AWS, and more. I like to make stuff that is impactful, on projects where I can have a ton of ownership from end to end. I’m a follower of the life-long learning philosophy, and always looking for ways to apply and build upon my experience.
 - Software Engineer @ Tesla
 - Tech Lead on Meetable @ UBC Launchpad
-- 💬 Ask me about **The AWS Cloud Innovation Centre**, **VIM Keybinds**, **Urban City Design**, **Poker**, **Spikeball**, **Web Dev Stuff**
+- 💬 Ask me about
+  - **VIM Keybinds**
+  - **Urban City Design**
+  - **Poker**
+  - **Spikeball**
+  - **Web Dev Stuff**
+  - **The AWS Cloud Innovation Centre**
 
 ### Projects I'm Proud of
 
@@ -19,6 +25,7 @@ Hi 👋 I’m Trevor - a curiosity-driven computer engineer with professional ex
 - Digital Drawing (mostly copying)
 - Volleyball
 - Spikeball
+- Games (Roguelike Deckbuilders are my fave (Balatro / Slay the Spire))
 
 ### Contact
 - [Website](https://trevorflanigan.com)
