@@ -11,7 +11,6 @@ Curiosity-driven full stack developer with professional experience in FE, BE, an
 - [First Responder](https://cic.ubc.ca/project/virtual-communication-for-remote-first-responders/) [(repo)](https://github.com/UBC-CIC/first-responder-mobile-app)
 - [Census Explorer](https://github.com/UBC-CIC/census-explorer)
 - [Bullpen](https://bullpen.trevorflanigan.com/)
-- [Wavelength](http://wavelength.trevorflanigan.com/)
 - [Sync](https://sync.ubclaunchpad.com/)
 
 ### Contact
