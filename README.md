@@ -31,9 +31,6 @@ Hi 👋 I’m Trevor - a curiosity-driven computer engineer with professional ex
 - [Website](https://trevorflanigan.com)
 - [LinkedIn](https://www.linkedin.com/in/trevorflanigan/)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrevorFlanigan&show_icons=true)
-<br />
-
 <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TrevorFlanigan&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
 
 <br/>
